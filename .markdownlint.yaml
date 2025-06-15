@@ -1,0 +1,6 @@
+no-hard-tabs: false
+ul-indent:
+  indent: 1
+  start_indented: false
+  start_indent: 2
+line-length: false
