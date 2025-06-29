@@ -14,7 +14,7 @@ In any case, welcome!
 
 We will be talking about:
 
-- [Branch naming](branch-naming.md)
+- [Branch managing](branch-managing.md)
 - [Branch rulesets (Github)](branch-rulesets-github.md)
 - [Intro to rebasing via interactive rebase](intro-to-rebase.md)
 - [The actual thing behind the name: re-basing a branch](rebase-onto-a-branch.md)
@@ -25,4 +25,4 @@ We will be talking about:
 - [Problems with pushing after a local rebase](force-with-lease.md)
 - [Git config defaults](important-git-configs.md)
 
-Let's start with [Branch naming](./branch-naming.md).
+Let's start with [Branch naming](./branch-managing.md).
