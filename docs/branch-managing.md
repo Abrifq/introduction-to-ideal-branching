@@ -1,6 +1,10 @@
 # Branch Managing
 
+---
+
 Navigator: [Index](index.md), [Next Article: Branch rulesets (Github)](branch-rulesets-github.md)
+
+---
 
 In a perfect world of my mind, the branches are categorized in two ways:
 
@@ -35,4 +39,8 @@ In a perfect world of my mind, the branches are categorized in two ways:
 
 ## Safe Branches
 
+---
+
 Navigator: [Index](index.md), [Next Article: Branch rulesets (Github)](branch-rulesets-github.md), [Go to start of this article](#branch-managing)
+
+---
